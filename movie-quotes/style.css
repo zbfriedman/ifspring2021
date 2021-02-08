@@ -1,0 +1,29 @@
+body
+{
+    background-color: #E1E1E1;
+}
+
+h1
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.all
+{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.speaker
+{
+    text-align: center;
+    font-weight: 900;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+
+.quote
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 35px;
+}
