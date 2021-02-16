@@ -1,0 +1,98 @@
+body 
+{
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: .3;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+h1 
+{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+h2 
+{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.box
+{
+    border: 2px solid black;
+    margin: 3% 0;
+    padding: 1.5%;
+    width: 50%;
+}
+
+h3
+{
+    color: steelblue;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h4
+{
+    font-weight: normal;
+    font-size: 10pt;
+    margin-top: 5%;
+}
+
+p
+{
+    font-weight: normal;
+}
+
+#bold
+{
+    font-weight: bold;
+}
+
+#italic
+{
+    font-style: italic;
+}
+
+#spacingBigger
+{
+    letter-spacing: .3em;
+}
+
+#spacingSmaller
+{
+    letter-spacing: -.06em;
+}
+
+#underline
+{
+    text-decoration: underline;
+}
+
+#line-through
+{
+    text-decoration: line-through;
+}
+
+#overline
+{
+    text-decoration: overline;
+}
+
+#uppercase
+{
+    text-transform: uppercase;
+}
+
+#lowercase
+{
+    text-transform: lowercase;
+}
+
+#capitalize
+{
+    text-transform: capitalize;
+}
