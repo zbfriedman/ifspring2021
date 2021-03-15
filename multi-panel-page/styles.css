@@ -120,9 +120,9 @@ section.conclusion
     background-color: red;
 }
 
-footer p
+footer
 {
-    padding-top: 3%;
+    background-color: thistle;
 }
 
 header
