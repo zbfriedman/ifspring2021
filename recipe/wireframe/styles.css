@@ -1,0 +1,61 @@
+body
+{
+    width: 80%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+#main-image
+{
+    float: left;
+    margin: 0 3% 3% 0;
+    width: 55%;
+}
+
+.contents li
+{
+margin-bottom: 5%;
+}
+
+h2
+{
+    clear: both;
+}
+
+.ingredients li
+{
+    display: block;
+}
+
+.ingredients ul
+{
+    padding: 0;
+}
+
+@media (max-width: 800px)
+{
+    #main-image
+    {
+        float: none;
+        width: 100%;
+    }
+}
+
+@media (min-width: 640px) {
+    .contents 
+    {
+        display: flex;
+    }
+    .contents .directions
+    {
+        margin-left: 20px;
+        width: 80%;
+    }
+}
