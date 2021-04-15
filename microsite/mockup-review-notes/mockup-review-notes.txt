@@ -1,0 +1,9 @@
+Overall I think the site is very visually appealing. I think the thick lettering and the colors are great. As I wrote about before, I think the vertical nav bar looks good and matches the overall theme that I'm looking for. 
+
+The big image on the landing page with "ROCK CLIMBING" is a good touch that I didn't think about. I think it could be at ~80% opacity so it doesn't clash with the colors of the nav bar too much. Perhaps it could be 100% opacity when it's hovered over.
+
+I think the history section could be more focused on recent history (post 1800). I know there is a deeper history, but I imagined the site to be more related to modern day climbing. 
+
+As for the overall body text, I like the simplicity of it, but I think it could use a little more personality. Check out this link: https://57hours.com/best-of/rock-climbing-worldwide/. You'll see that next to each numbered item on the list is a vertical line and different sized text for the title and subtitle. There are even some bullets for the main points. You don't have to copy this exactly, but I think small additions like this can make a big difference.
+
+Aside from those small changes, it's looking great! If you have any question, feel free to email me at zach.friedman@wustl.edu
