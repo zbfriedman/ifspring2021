@@ -52,6 +52,11 @@ h2
     letter-spacing: 3px;
 }
 
+h2:hover
+{
+    color: #416BA6;
+}
+
 .section-body
 {
     margin-top: 10%;
