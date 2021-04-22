@@ -1,0 +1,7 @@
+Great job on the site and recreating something that's very similar to what was in the mockup! I think it's a super strong start. Here are a few suggestions:
+
+1. I think the menu/nav bar could be little less wide. I think it's eating up a but too much of the page. Maybe making the width a fixed pixel size instead of a percentage would fix the issue.
+
+2. I like the colors and how clean it looks, but I wish there was a little more personality to it. I think adding the big image to the landing page like you had in the mockup would be a start. I also think a low-opacity texture/pattern could be added to the background of either the menu bar or the main pages. I have no idea how this would work, but if you google "rock texture" maybe something like that could be added to the background. 
+
+3. The responsiveness of it is really impressive. I realized, however, that the menu bar is super tall and takes up a big chunk of the page (before you scroll) when the window resizes. Maybe it could become a drop down or goes horizontal.
